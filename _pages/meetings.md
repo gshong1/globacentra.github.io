@@ -1,0 +1,13 @@
+---
+title: Meetings
+permalink: /meetings
+layout: splash
+sidebar:
+  nav: "sidebar"
+header:
+  overlay_image: /images/alice.jpg
+
+---
+
+
+<div class="well"> hello</div>
