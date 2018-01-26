@@ -1,0 +1,44 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Meetings"
+    url: /meetings/
+  - title: "Members"
+    url: /Members/
+  - title: "News"
+    url: /news/
+  - title: "Projects"
+    url: /projects/
+  - title: "Research"
+    url: /research/
+  - title: "Webinars"
+    url: /webinars/
+
+
+# sidebar links
+sidebar:
+ - title: About
+   children:
+     - title: About Centra
+       url: /quick-guide/
+     - title: vision
+       url: #
+ - title: objectives
+   children:
+     - title: Mission
+       url: /categories/#documents
+     - title: News
+       url: /categories/#news
+     - title: Releases
+       url: /categories/#releases
+ - title: Advisory Board
+   children:
+     - title: Collaborators
+       url: #
+     - title: Funding
+       url: #
+     - title: Contact
+       url: #
