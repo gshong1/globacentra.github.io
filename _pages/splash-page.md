@@ -5,9 +5,8 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/stadium.jpg
+  overlay_image: /images/header.jpg
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: Shrivinayak Bhat"
 excerpt: "Advancing the Scientific Understanding of Distributed Software-Defined Cyberinfrastructures"
 intro: 
   - excerpt: CENTRA stands for Collaborations to Enable Transnational Cyberinfrastructure Applications and refers to a partnership and evolving framework for collaborations amongst research centers, institutes and laboratories across the world
