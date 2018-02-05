@@ -32,11 +32,15 @@ Facilitating the use and development of prototypes and testbeds to demonstrate s
 
 ## Advisory Board
 
-Maxine Brown, Director of UIC Electronic Visualization Laboratory Charlie Catlett, Senior Computer Scientist at Argonne National Laboratory and the University of Chicago William Chang, Special Advisor for the Asia Pacific Program, Office of the Vice President for Research and Innovation, University of Hawaii System Julio Ibarra, Assistant Vice President for Technology Augmented Research, Florida International University Glenn Ricart, Founder and CEO of US Ignite
+- Maxine Brown, Director of UIC Electronic Visualization Laboratory 
+- Charlie Catlett, Senior Computer Scientist at Argonne National Laboratory and the University of Chicago 
+- William Chang, Special Advisor for the Asia Pacific Program, Office of the Vice President for Research and Innovation, University of Hawaii System 
+- Julio Ibarra, Assistant Vice President for Technology Augmented Research, Florida International University
+- Glenn Ricart, Founder and CEO of US Ignite
 
 ## Collaborators
 
-CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. Current institutional members are the Advanced Computing and Information Systems (ACIS)laboratory of the University of Florida, the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan, the National Institute of Information and Communications Technologies (NICT) in Japan, and the Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal. Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Portugal, Malaysia, Myanmar, Taiwan, Thailand, Singapore, South Korea, Vietnam and USA.
+CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. Current institutional members are the Advanced Computing and Information Systems (ACIS) laboratory of the University of Florida, the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan, the National Institute of Information and Communications Technologies (NICT) in Japan, and the Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal. Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Portugal, Malaysia, Myanmar, Taiwan, Thailand, Singapore, South Korea, Vietnam and USA.
 
 ## Funding
 
