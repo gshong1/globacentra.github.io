@@ -1,6 +1,6 @@
 ---
 title: Members
-permalink: /members
+permalink: /members/
 layout: splash
 sidebar:
   nav: "sidebar"
