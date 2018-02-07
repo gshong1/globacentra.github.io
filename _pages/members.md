@@ -1,6 +1,6 @@
 ---
 title: Members
-permalink: /members
+permalink: /members/
 layout: splash
 header:
   overlay_color: "#000"
