@@ -2,8 +2,6 @@
 title: Members
 permalink: /members/
 layout: splash
-sidebar:
-  nav: "sidebar"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
