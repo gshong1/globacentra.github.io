@@ -42,3 +42,22 @@ sidebar:
        url: #
      - title: Contact
        url: #
+
+
+projects:
+ - title: Projects
+   children:
+     - title: The Visualization Alliance 
+       url: /projects/#va
+     - title: SDN-IP Peering for IOT Data Transmission
+       url: /projects/#sd
+     - title: Persistent Identifier (PID) Kernel Information 
+       url: /projects/#pi
+     - title: IT for Natural Disaster Management
+       url: /projects/#it
+     - title: Overlay VPNs for Sensors, Edge and Cloud Resources
+       url: /projects/#ov
+     - title: Distributed Lifemapper
+       url: /projects/#di
+     - title: AirBox 
+       url: /projects/#ai 
