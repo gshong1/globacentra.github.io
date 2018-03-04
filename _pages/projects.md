@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/
-title: Centra Projects
+title: CENTRA Projects
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
