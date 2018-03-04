@@ -47,17 +47,17 @@ sidebar:
 projects:
  - title: Projects
    children:
-     - title: The Visualization Alliance 
+     - title: • The Visualization Alliance 
        url: /projects/#va
-     - title: SDN-IP Peering for IOT Data Transmission
+     - title: • SDN-IP Peering for IOT Data Transmission
        url: /projects/#sd
-     - title: Persistent Identifier (PID) Kernel Information 
+     - title: • Persistent Identifier (PID) Kernel Information 
        url: /projects/#pi
-     - title: IT for Natural Disaster Management
+     - title: • IT for Natural Disaster Management
        url: /projects/#it
-     - title: Overlay VPNs for Sensors, Edge and Cloud Resources
+     - title: • Overlay VPNs for Sensors, Edge and Cloud Resources
        url: /projects/#ov
-     - title: Distributed Lifemapper
+     - title: • Distributed Lifemapper
        url: /projects/#di
-     - title: AirBox 
+     - title: • AirBox 
        url: /projects/#ai 
