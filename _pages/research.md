@@ -27,7 +27,7 @@ Click [here](/projects) to know about projects and working groups.
 
 The following testbeds and systems are available to CENTRA researchers.  Click on their acronyms to find out how impressive they are.
 
-<img src="/images/starbed.jpg" style="float:right; padding: 0 0 1em 1em;" class="img-responsive" >
+<img src="../images/starbed.jpg" style="float:right; padding: 0 0 1em 1em;" class="img-responsive" >
 
 - **PRAGMA Experimental Network Testbed** ([PRAGMA-ENT](https://github.com/pragmagrid/pragma_ent/wiki)) - A breakable international software-defined network (SDN) testbed.
 
@@ -44,7 +44,7 @@ resilient ICT technologies.
 - **Research Infrastructure for Large-Scale Network Experiments** ([RISE](https://www.jgn.nict.go.jp/nwgn/rise/index.html)) -
 A New Generation Network Testbed (NICT JGN-X) wide-area SDN testbed including East Asia, Japan, and the US connected via [TEIN](http://tein4.net/tein4/about/history.do).
 
-<img src="/images/dis.jpg" style="padding: 0 1.5em 0 1em;" class="pull-left img-responsive" >
+<img src="../images/dis.jpg" style="padding: 0 1.5em 0 1em;" class="pull-left img-responsive" >
 
 - **National Center for High Performance Computing - Taiwan** ([NCHC](https://www.nchc.org.tw/en/)) - A member of the National Applied Research 
 Laboratories (NARLabs) providing national services of compute, storage, and network services to Academia of Taiwan. A total of 200 teraflop compute, 6 petabyte storage, and 100 Gb/s Taiwan Research and Educational Network available.
