@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: centra3
 permalink: /centra3/travel
 title: CENTRA3
 header:

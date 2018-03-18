@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: centra3
 permalink: /centra3/abci
 title: CENTRA3
 header:
