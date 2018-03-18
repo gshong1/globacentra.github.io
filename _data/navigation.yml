@@ -61,3 +61,28 @@ projects:
        url: /projects/#di
      - title: • AirBox 
        url: /projects/#ai 
+
+
+
+centra3:
+ - title: CENTRA3
+   children:
+     - title: • Home
+       url: /centra3/
+     - title: • Important Dates
+       url: /centra3/dates
+     - title: • Program
+       url: /centra3/program
+     - title: • Post Workshop - ABCI
+       url: /centra3/abci
+     - title: • Registration
+       url: /centra3/registration
+     - title: • Venue & Lodging
+       url: /centra3/vl
+     - title: • Travel
+       url: /centra3/travel
+     - title: • Visa Information
+       url: /centra3/visa
+     - title: • Organizers & Sponsors
+       url: /centra3/os
+
