@@ -11,22 +11,16 @@ sidebar:
 ---
 <img src="../images/centra2.jpg">
 
-<style>
-	h1{text-align: center;}
-	h3{ padding: .3em 0 .3em 0;}
-	p{padding:0 0 0 2em;}
-</style>
 
-<div style="padding: .5em 0 0 270px;">
 
 <h1>CENTRA 2 All-Hands Meeting Overview</h1>
 <h1>April 12, 2017, Gainesville, Florida</h1>
-<h3 style="text-align: center">All events take place at UF Hilton, except Dinner on April 12 which takes place at Thomas Center.
+<h3 style="text-align: left">All events take place at UF Hilton, except Dinner on April 12 which takes place at Thomas Center.
 Plenary sessions are held in the Century Ballroom. Breakout sessions are held in the Century Ballroom and in the following rooms: Dogwood, Live Oak and Hawthorne.</h3>
 
-<p style="text-align:center"><a href="http://www.globalcentra.org/centra2/working_agenda_v01APR17.pdf" target="_blank">Final Agenda v01Apr2017 (PDF)</a></p>
+<p style="text-align:left"><a href="http://www.globalcentra.org/centra2/working_agenda_v01APR17.pdf" target="_blank">Final Agenda v01Apr2017 (PDF)</a></p>
 
-<p style="text-align:center"><a href="http://www.globalcentra.org/program2017.pdf" target="_blank">CENTRA 2 Program (PDF)</a></p>
+<p style="text-align:left"><a href="http://www.globalcentra.org/program2017.pdf" target="_blank">CENTRA 2 Program (PDF)</a></p>
 
 <h3><u>APRIL 9</u></h3>
 Travel Day
