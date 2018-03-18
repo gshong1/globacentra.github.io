@@ -9,7 +9,7 @@ header:
 sidebar:
   nav: "centra3"
 ---
-<img src="/images/centra3.png">
+<img src="../images/centra3.png">
 
 
 ## Post-workshop ABCI (AIST) visit: (tentative plan)  
@@ -33,7 +33,7 @@ sidebar:
 <br>
 <hr>
 ## How to get to ABCI  
-<img src="/images/centra-3-abci-map.png" alt="CENTRA3 ABCI map" style="margin-right: auto;margin-left: auto;" class="img-responsive">
+<img src="../images/centra-3-abci-map.png" alt="CENTRA3 ABCI map" style="margin-right: auto;margin-left: auto;" class="img-responsive">
 
 <br>
 <br>

@@ -9,7 +9,7 @@ header:
 sidebar:
   nav: "centra3"
 ---
-<img src="/images/centra3.png">
+<img src="../images/centra3.png">
 
 ## CENTRA 2018 Venue and Hotels
 
@@ -29,13 +29,13 @@ Otemachi Station (Mita Line (I09), Chiyoda Line (C11), Hanzomon Line (Z08), Toza
 #### By JR Trains
 JR Tokyo Station is the nearest JR station to access to AP Tokyo Marunouchi. It is approximately 10-minute walk from JR Tokyo Station (Marunouchi North Exit).  
   
-<img src="/images/centra3_venue_access.png" alt="CENTRA3 venue access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
+<img src="../images/centra3_venue_access.png" alt="CENTRA3 venue access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
 
 
 ### *For PRAGMA 34 Participants*  
 Please note that PRAGMA 34 and CENTRA 3 All-Hands Meeting are held at *different* locations. [PRAGMA 34](http://www.pragma-grid.net/pragma34-venue/) will be held at Akihabara Convention Hall near JR Akihabara Station; CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science will be held at AP Tokyo Marunouchi near JR Tokyo Station. It takes about 4 minutes from JR Akihabara Station to JR Tokyo Station on the JR Yamanote Line bound for Shinagawa:  
   
-<img src="/images/CENTRA_PRAGMA venues_access.png" alt="CENTRA-PRAGMA venue access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
+<img src="../images/CENTRA_PRAGMA venues_access.png" alt="CENTRA-PRAGMA venue access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
   
 
 ### List of Nearby Hotels  

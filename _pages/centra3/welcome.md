@@ -10,7 +10,7 @@ sidebar:
   nav: "centra3"
 ---
 
-<img src="/images/centra3.png">
+<img src="../images/centra3.png">
 ## CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science
 
 <p>

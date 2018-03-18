@@ -9,7 +9,7 @@ header:
 sidebar:
   nav: "centra3"
 ---
-<img src="/images/centra3.png">
+<img src="../images/centra3.png">
 
 ## CENTRA 2018 Travel Information  
   
@@ -37,7 +37,7 @@ Airport Limousine Bus offers direct service to Tokyo Station (Marunouchi Exit) a
 *TAXI*:   
 Taxi service is available, however it is not recommended because of the great distance from the airport to the city (taxi fares for trips to central Tokyo range from 14,000 to 20,000 yen).  
 
-<img src="/images/Narita Airport to venue.png" alt="Narita Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
+<img src="../images/Narita Airport to venue.png" alt="Narita Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
 
 #### Ground Transportation from Narita Airport to Tokyo Station
 
@@ -55,7 +55,7 @@ Haneda Airport Limousine Bus offers direct service to major hotels in central To
 *TAXI*:  
 Taxi service is available, however it is not recommended because of the distance from the airport to the city (taxi fares for trips to central Tokyo range from 7,000 to 13,000 yen).  
 
-<img src="/images/Haneda Airport to venue.png" alt="Haneda Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
+<img src="../images/Haneda Airport to venue.png" alt="Haneda Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
   
 
    
