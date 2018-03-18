@@ -86,3 +86,24 @@ centra3:
      - title: • Organizers & Sponsors
        url: /centra3/os
 
+centra2:
+ - title: CENTRA2
+   children:
+     - title: • Home
+       url: /centra2/
+     - title: • Important Dates
+       url: /centra2/dates
+     - title: • Program
+       url: /centra2/program
+     - title: • Registration
+       url: /centra2/registration
+     - title: • Venue 
+       url: /centra2/venue
+     - title: • Travel
+       url: /centra2/travel
+     - title: • Visa Information
+       url: /centra2/visa
+     - title: • Sponsors
+       url: /centra2/sponsorship
+
+       
